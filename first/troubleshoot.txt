@@ -1,0 +1,1 @@
+https://ethereum.stackexchange.com/questions/126114/i-have-problem-installing-truffle-when-i-try-npm-truffle-v-i-get-this-error-me
